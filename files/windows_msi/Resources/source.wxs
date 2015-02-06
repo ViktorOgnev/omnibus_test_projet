@@ -48,7 +48,7 @@
       <Directory Id="WindowsVolume">
         <!-- Service needs chef directory to be present. -->
         <Directory Id="INSTALLLOCATION" Name="opt">
-          <Directory Id="PROJECTLOCATION" Name="scalarizr">
+          <Directory Id="PROJECTLOCATION" Name="test">
           </Directory>
         </Directory>
       </Directory>
